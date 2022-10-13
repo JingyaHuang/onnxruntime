@@ -6,7 +6,8 @@
 #pragma once
 
 #include "core/framework/ort_value.h"
-#include <dlpack/dlpack.h>
+// #include <dlpack/dlpack.h>
+#include "core/dlpack/dlpack.h"
 
 namespace onnxruntime {
 namespace dlpack {
